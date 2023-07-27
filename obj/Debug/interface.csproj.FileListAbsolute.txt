@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\interface\bin\Debug\@interface.exe.config
+C:\Users\tuan\Desktop\interface\bin\Debug\@interface.exe
+C:\Users\tuan\Desktop\interface\bin\Debug\@interface.pdb
+C:\Users\tuan\Desktop\interface\obj\Debug\interface.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\interface\obj\Debug\interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\interface\obj\Debug\@interface.exe
+C:\Users\tuan\Desktop\interface\obj\Debug\@interface.pdb
